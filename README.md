@@ -5,8 +5,8 @@ Here is the collection of my code for the Cloud Computing course at Birkbeck Uni
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.js](https://nodejs.org/)
 
+![Introduction to Node.js](https://github.com/erossini/BirkbeckCloudComputingCourse/blob/main/images/Nodejs1.gif)
+
 ## My posts
 
 - [Introduction to Node.js](https://puresourcecode.com/tools/node-js/introduction-to-node-js/)
-
-![Introduction to Node.js](https://github.com/erossini/BirkbeckCloudComputingCourse/blob/main/images/Nodejs1.gif)
